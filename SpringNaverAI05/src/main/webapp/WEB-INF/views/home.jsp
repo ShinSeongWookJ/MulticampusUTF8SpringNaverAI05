@@ -13,9 +13,10 @@
 <P>   
 	<ul>
 		<li><a href="summaryform">Clova Summary: 긴 문장을 요약해주는 API</a></li>
-	
+		<li><a href="cfrform">CFR-얼굴감지 (Celebrity)셀럽 얼굴 감지 </a></li>
 	</ul>
 
 </P>
+
 </body>
 </html>
