@@ -38,7 +38,7 @@
 					let jsonObj=JSON.parse(res.result);
 					
 					$('#result').html("<h3>"+jsonObj.text+"</h3>");
-					//$('#sttAudio').prop("autoplay",true);
+					$('#sttAudio').prop("autoplay","autoplay");
 				},
 				error:function(err){
 					alert('error: '+err.status);
